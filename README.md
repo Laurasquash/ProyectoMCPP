@@ -35,5 +35,8 @@ MÉTODOS UTILIZADOS
 
 HALLAZGOS
 
+1. Las palabras más usadas en el Plan Distrital de Desarrollo 2020-2024 son:
+2. 
+![Captura de pantalla 2021-11-20 a la(s) 12 06 51 p  m](https://user-images.githubusercontent.com/92479409/142947175-8d17d021-9668-408e-875b-e7c24dbb8918.png
 
 
