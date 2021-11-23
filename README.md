@@ -1,4 +1,4 @@
-# ProyectoMCPP
+# PROYECTO FINAL LAURA TOVAR
 
 ## Descripción y motivación
 
@@ -13,6 +13,8 @@ La motivación y preguntas que se quieren resolver se centran en los siguientes 
 3.	El convenio interadministrativo 1274 de 2021, que une a IDU y a UMV para realizar actividades de mantenimiento y rehabilitación, por lo que quisiera saber si las reparaciones (huecos) que actualmente registra el estado de la malla vial están siendo considerados por las UMV en los registros de segmentos terminados. 
 
 4.	De los 3 grandes corredores viales dentro del convenio se encuentran La Avenida Boyacá, La Avenida Carrera 80 y La Avenida José Celestino Mutis, entonces, quiero determinar el estado de estas vías (malo, bueno o regular) y cuales son las localidades implicadas.
+
+
 
 ## Métodos utilizados
 
@@ -38,11 +40,15 @@ La motivación y preguntas que se quieren resolver se centran en los siguientes 
 
 -	Existen 3 Corredores principales de interés, La Avenida Boyacá, la Avenida Agoberto Mejía y la Avenida Jose Ceslestino Mutis, los las cuales se resaltan en un mapa y se verifican los segmentos intervenidos.
 
+
+
 ## Hallazgos
 
 1. Las palabras en el Plan Distrital de Desarrollo 2020-2024 más comunes no se refieren específicamente al manteminiento vial o mejoramiento de los segmentos viales en Bogotá. Se refieren entonces a las obras del metros, ciclorutas y biciusuarios y los tiempos de desplazamiento
 
 ![NTLK.png](attachment:NTLK.png)
+
+
 
 2. Las localidades con mas huecos tapados fueron:
 -	Usaquen-> 31.701
@@ -63,9 +69,13 @@ La motivación y preguntas que se quieren resolver se centran en los siguientes 
 
 ![Tipo%20Actividad%20por%20localidad.png](attachment:Tipo%20Actividad%20por%20localidad.png)
 
+
+
+
 4. Filtros de calles, avenidas y carreras por localidad y su estado vial. Las localidades que deberían ser el foco para reparación de segmentos viales podrían ser: Engativa, Kennedy, Rafael Uribe Uribe, Suba, Tesusaquillo.
 
 ![Estado%20vial%20por%20localidad%20tabla.png](attachment:Estado%20vial%20por%20localidad%20tabla.png)
+
 
 5. Mapa 1:
 - El 24.728929518023904% de las vías en Bogotá están en buen estado
@@ -75,9 +85,11 @@ La motivación y preguntas que se quieren resolver se centran en los siguientes 
 
 ![mapa%20localidades%201.png](attachment:mapa%20localidades%201.png)
 
+
 6. Mapa 2: De acuerdo al numero de huecos reparados y al tipo de actividad que se realiza en cada localidad vemos que las
 localidades donde se realizaron mas intervenciones de mantenimiento presentan mejoría en el estado vial
 ![mapa%20Estado%20vial%20localidades%202.png](attachment:mapa%20Estado%20vial%20localidades%202.png)
+
 
 7. Mapa 3: Recordando el convenio de UMV y el IDU los tres corredores principales. La reflexión es:
 - ¿El convenio si es necesario?
