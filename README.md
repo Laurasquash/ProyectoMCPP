@@ -47,6 +47,7 @@ La motivación y preguntas que se quieren resolver se centran en los siguientes 
 1. Las palabras en el Plan Distrital de Desarrollo 2020-2024 más comunes no se refieren específicamente al manteminiento vial o mejoramiento de los segmentos viales en Bogotá. Se refieren entonces a las obras del metros, ciclorutas y biciusuarios y los tiempos de desplazamiento
 
 ![NTLK.png](attachment:NTLK.png)
+![NTLK](https://user-images.githubusercontent.com/92479409/142977769-a4f49e5f-dbf9-4981-b368-24a6fb4c913b.png)
 
 
 
