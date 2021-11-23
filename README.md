@@ -46,7 +46,6 @@ La motivación y preguntas que se quieren resolver se centran en los siguientes 
 
 1. Las palabras en el Plan Distrital de Desarrollo 2020-2024 más comunes no se refieren específicamente al manteminiento vial o mejoramiento de los segmentos viales en Bogotá. Se refieren entonces a las obras del metros, ciclorutas y biciusuarios y los tiempos de desplazamiento
 
-![NTLK.png](attachment:NTLK.png)
 ![NTLK](https://user-images.githubusercontent.com/92479409/142977769-a4f49e5f-dbf9-4981-b368-24a6fb4c913b.png)
 
 
@@ -59,7 +58,8 @@ La motivación y preguntas que se quieren resolver se centran en los siguientes 
 -	Barrios Unidos->15.847
 -	Chapinero->14.426
 
-![N%20huecos%20por%20localidad%20%281%29.png](attachment:N%20huecos%20por%20localidad%20%281%29.png)
+![N huecos por localidad (1)](https://user-images.githubusercontent.com/92479409/142977860-2f0f3655-e976-4401-9ace-99f39be6def3.png)
+
 
 3. Se describe el tipo de reparación que se le aplicó al segmento vial por localidad <br>
 -	La actividad que mas se realiza es el parcheo
@@ -68,14 +68,14 @@ La motivación y preguntas que se quieren resolver se centran en los siguientes 
 -	Usaquén, Suba, Teusaquillo, Kennedy, Engativá son las localidades donde se realizaron procesos de rehabilitación.
 -	Teusaquillo, Candelaria, Chapinero, Usaquén, Suba son las localidades que han tenido mas tipos de intervención entonces, se puede presumir que el estado de la malla vial en esas localidades es malo. <br>
 
-![Tipo%20Actividad%20por%20localidad.png](attachment:Tipo%20Actividad%20por%20localidad.png)
+![Tipo Actividad por localidad](https://user-images.githubusercontent.com/92479409/142977883-f220066b-071c-4c4e-8058-71f24cb95aa7.png)
 
 
 
 
 4. Filtros de calles, avenidas y carreras por localidad y su estado vial. Las localidades que deberían ser el foco para reparación de segmentos viales podrían ser: Engativa, Kennedy, Rafael Uribe Uribe, Suba, Tesusaquillo.
 
-![Estado%20vial%20por%20localidad%20tabla.png](attachment:Estado%20vial%20por%20localidad%20tabla.png)
+![Estado vial por localidad tabla](https://user-images.githubusercontent.com/92479409/142977909-f65789ff-99a4-4e15-9eb2-f18457951d07.png)
 
 
 5. Mapa 1:
@@ -83,18 +83,21 @@ La motivación y preguntas que se quieren resolver se centran en los siguientes 
 - El 21.60021028497996% de las vías en Bogotá están en buen estado
 - El 40.34770037310981% de las vías en Bogotá están en buen estado
 
+![mapa localidades 1](https://user-images.githubusercontent.com/92479409/142977933-48d865c5-728e-43c5-81a7-489fc28a8a76.png)
 
-![mapa%20localidades%201.png](attachment:mapa%20localidades%201.png)
 
 
 6. Mapa 2: De acuerdo al numero de huecos reparados y al tipo de actividad que se realiza en cada localidad vemos que las
 localidades donde se realizaron mas intervenciones de mantenimiento presentan mejoría en el estado vial
-![mapa%20Estado%20vial%20localidades%202.png](attachment:mapa%20Estado%20vial%20localidades%202.png)
+
+![mapa Estado vial localidades 2](https://user-images.githubusercontent.com/92479409/142977941-8c0f3876-8962-4257-b861-b550746fedf9.png)
 
 
 7. Mapa 3: Recordando el convenio de UMV y el IDU los tres corredores principales. La reflexión es:
 - ¿El convenio si es necesario?
 - ¿Que pasa con las otras vías principales?
 
+![mapa corredores ppales 3](https://user-images.githubusercontent.com/92479409/142977961-8f88d98b-71db-46a3-9d83-d9c326cbda84.png)
 
-![mapa%20corredores%20ppales%203.png](attachment:mapa%20corredores%20ppales%203.png)
+
+
